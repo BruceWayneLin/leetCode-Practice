@@ -1,0 +1,24 @@
+{
+  "name": "leetcode-practice",
+  "version": "1.0.0",
+  "description": "all of exams of leetCode need to practice",
+  "main": "easy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BruceWayneLin/leetCode-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BruceWayneLin/leetCode-Practice/issues"
+  },
+  "homepage": "https://github.com/BruceWayneLin/leetCode-Practice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
